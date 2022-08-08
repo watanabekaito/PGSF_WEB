@@ -1,0 +1,757 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "http://persona5.jp/sp/",
+            "path": "index.html",
+            "saved": true,
+            "size": 14919,
+            "children": [
+                {
+                    "url": "http://persona5.jp/resources/img/common/intro_img1.png?v=1658969633929",
+                    "path": "img/intro_img1.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://persona5.jp/resources/img/common/intro_img2.png?v=1658969633929",
+                    "path": "img/intro_img2.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://persona5.jp/resources/img/modal/modal_close_btn.png?v=1658969633929",
+                    "path": "img/modal_close_btn.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://persona5.jp/resources/img/modal/modal_remaster.png?v=1658969633929",
+                    "path": "img/modal_remaster.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://persona5.jp/resources/img/modal/modal_btn_remaster.png?v=1658969633929",
+                    "path": "img/modal_btn_remaster.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://persona5.jp/resources/img/top/sp/key_visual_s.svg?v=1658969633929",
+                    "path": "img/key_visual_s.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://persona5.jp/resources/img/top/sp/about_p5_s.svg?v=1658969633929",
+                    "path": "img/about_p5_s.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://persona5.jp/resources/img/top/sp/school_life_s.svg?v=1658969633929",
+                    "path": "img/school_life_s.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://persona5.jp/resources/img/top/sp/phantom_life_s.svg?v=1658969633929",
+                    "path": "img/phantom_life_s.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://persona5.jp/resources/img/top/sp/staff_s.svg?v=1658969633929",
+                    "path": "img/staff_s.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://persona5.jp/resources/img/top/sp/director_s.svg?v=1658969633929",
+                    "path": "img/director_s.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://persona5.jp/resources/img/top/sp/s_composer_s.svg?v=1658969633929",
+                    "path": "img/s_composer_s.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://persona5.jp/resources/img/top/sp/c_designer_s.svg?v=1658969633929",
+                    "path": "img/c_designer_s.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://persona5.jp/resources/img/top/sp/ig_s.svg?v=1658969633929",
+                    "path": "img/ig_s.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://persona5.jp/resources/img/top/sp/spec_s.svg?v=1658969633929",
+                    "path": "img/spec_s.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://persona5.jp/resources/img/top/sp/key_visual.png?v=1658969633929",
+                    "path": "img/key_visual.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://persona5.jp/resources/img/top/sp/logo.png?v=1658969633929",
+                    "path": "img/logo.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://persona5.jp/resources/img/top/sp/low_price.png?v=1658969633929",
+                    "path": "img/low_price.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://persona5.jp/resources/img/top/sp/line.png?v=1658969633929",
+                    "path": "img/line.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://persona5.jp/resources/img/top/sp/star1.png?v=1658969633929",
+                    "path": "img/star1.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://persona5.jp/resources/img/top/sp/star2.png?v=1658969633929",
+                    "path": "img/star2.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://persona5.jp/resources/img/top/sp/star3.png?v=1658969633929",
+                    "path": "img/star3.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://persona5.jp/resources/img/top/sp/star4.png?v=1658969633929",
+                    "path": "img/star4.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://persona5.jp/resources/img/top/sp/star5.png?v=1658969633929",
+                    "path": "img/star5.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://persona5.jp/resources/img/top/sp/star6.png?v=1658969633929",
+                    "path": "img/star6.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://persona5.jp/resources/img/top/sp/star7.png?v=1658969633929",
+                    "path": "img/star7.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://persona5.jp/resources/img/top/sp/star8.png?v=1658969633929",
+                    "path": "img/star8.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://persona5.jp/resources/img/top/sp/about_p5.png?v=1658969633929",
+                    "path": "img/about_p5.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://persona5.jp/resources/img/top/sp/school_life.png?v=1658969633929",
+                    "path": "img/school_life.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://persona5.jp/resources/img/top/sp/phantom_life.png?v=1658969633929",
+                    "path": "img/phantom_life.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://persona5.jp/resources/img/top/sp/catchcopy.png?v=1658969633929",
+                    "path": "img/catchcopy.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://persona5.jp/resources/img/top/sp/staff_star.png?v=1658969633929",
+                    "path": "img/staff_star.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://persona5.jp/resources/img/top/sp/staff.png?v=1658969633929",
+                    "path": "img/staff.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://persona5.jp/resources/img/top/sp/director.png?v=1658969633929",
+                    "path": "img/director.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://persona5.jp/resources/img/top/sp/s_composer.png?v=1658969633929",
+                    "path": "img/s_composer.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://persona5.jp/resources/img/top/sp/c_designer.png?v=1658969633929",
+                    "path": "img/c_designer.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://persona5.jp/resources/img/top/sp/ig.png?v=1658969633929",
+                    "path": "img/ig.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://persona5.jp/resources/img/top/sp/spec.png?v=1658969633929",
+                    "path": "img/spec.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://persona5.jp/resources/img/top/sp/anniversary.png?v=1658969633929",
+                    "path": "img/anniversary.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://persona5.jp/resources/img/top/sp/about_persona.png?v=1658969633929",
+                    "path": "img/about_persona.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://persona5.jp/resources/img/common/sp/platform.png?v=1658969633929",
+                    "path": "img/platform.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://persona5.jp/resources/js/sp_top.min.da6e4342.js?v=1658969633929",
+                    "path": "js/sp_top.min.da6e4342.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.googleadservices.com/pagead/conversion.js?v=1658969633929",
+                    "path": "js/conversion.js",
+                    "saved": true,
+                    "size": 44784,
+                    "children": []
+                },
+                {
+                    "url": "http://fonts.googleapis.com/css?family=Oswald",
+                    "saved": false
+                },
+                {
+                    "url": "http://fonts.googleapis.com/css?family=Oswald",
+                    "saved": false
+                },
+                {
+                    "url": "http://persona5.jp/resources/css/sp_top.min.65068378.css?v=1658969633929",
+                    "path": "css/sp_top.min.65068378.css",
+                    "saved": true,
+                    "size": 80737,
+                    "children": [
+                        {
+                            "url": "http://persona5.jp/resources/css/fancybox_sprite.png",
+                            "path": "img/fancybox_sprite.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://persona5.jp/resources/css/fancybox_loading.gif",
+                            "path": "img/fancybox_loading.gif",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://persona5.jp/resources/css/blank.gif",
+                            "path": "img/blank.gif",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://persona5.jp/resources/css/fancybox_overlay.png",
+                            "path": "img/fancybox_overlay.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://persona5.jp/resources/css/fancybox_sprite@2x.png",
+                            "path": "img/fancybox_sprite@2x.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://persona5.jp/resources/css/fancybox_loading@2x.gif",
+                            "path": "img/fancybox_loading@2x.gif",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://persona5.jp/resources/img/common/overlay.png?1612930560",
+                            "path": "img/overlay.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://persona5.jp/resources/img/common/sp/menu_bg.png?1612930560",
+                            "path": "img/menu_bg.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://persona5.jp/resources/img/common/sp/h_top.png?1612930560",
+                            "path": "img/h_top.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://persona5.jp/resources/img/common/sp/menu_btn.png?1612930560",
+                            "path": "img/menu_btn.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://persona5.jp/resources/img/common/sp/menu_open_bg.png?1612930560",
+                            "path": "img/menu_open_bg.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://persona5.jp/resources/img/common/sp/h_character.png?1612930560",
+                            "path": "img/h_character.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://persona5.jp/resources/img/common/sp/h_school_life.png?1612930560",
+                            "path": "img/h_school_life.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://persona5.jp/resources/img/common/sp/h_phantom_life.png?1612930560",
+                            "path": "img/h_phantom_life.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://persona5.jp/resources/img/common/sp/h_archive.png?1612930560",
+                            "path": "img/h_archive.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://persona5.jp/resources/img/common/sp/h_shopguide.png?1612930560",
+                            "path": "img/h_shopguide.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://persona5.jp/resources/img/common/sp/h_close_btn.png?1612930560",
+                            "path": "img/h_close_btn.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://persona5.jp/resources/img/common/sp/award.png?1612930560",
+                            "path": "img/award.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://persona5.jp/resources/img/common/sp/p_channel.png?1612930560",
+                            "path": "img/p_channel.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://persona5.jp/resources/img/common/sp/pstudio_logo.png?1612930560",
+                            "path": "img/pstudio_logo.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://persona5.jp/resources/img/common/sp/atlus_logo.png?1612930560",
+                            "path": "img/atlus_logo.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://persona5.jp/resources/img/common/sp/to_top_btn.png?1612930560",
+                            "path": "img/to_top_btn.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://persona5.jp/resources/img/top/sp/bg.jpg?1612930561",
+                            "path": "img/bg.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://persona5.jp/resources/img/top/sp/close_btn.png?1612930561",
+                            "path": "img/close_btn_1.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://persona5.jp/resources/img/top/sp/morganacar.png?1612930562",
+                            "path": "img/morganacar.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://persona5.jp/resources/img/top/sp/bnr_p5r.png?1612930561",
+                            "path": "img/bnr_p5r.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://persona5.jp/resources/img/top/sp/news_bg.png?1612930562",
+                            "path": "img/news_bg.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://persona5.jp/resources/img/top/sp/news_more_btn.png?1612930562",
+                            "path": "img/news_more_btn.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://persona5.jp/resources/img/top/sp/twi_btn.png?1612930562",
+                            "path": "img/twi_btn.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://persona5.jp/resources/img/top/sp/fb_btn.png?1612930561",
+                            "path": "img/fb_btn.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://persona5.jp/resources/img/top/sp/line_btn.png?1612930561",
+                            "path": "img/line_btn.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://persona5.jp/resources/img/top/sp/bnr_dlc.png?1612930561",
+                            "path": "img/bnr_dlc.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://persona5.jp/resources/img/top/sp/bnr_ost.png?1612930561",
+                            "path": "img/bnr_ost.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://persona5.jp/resources/img/top/sp/bnr_plive2019.png?1612930561",
+                            "path": "img/bnr_plive2019.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://persona5.jp/resources/img/top/sp/bnr_pq2.png?1612930561",
+                            "path": "img/bnr_pq2.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://persona5.jp/resources/img/top/sp/bnr_p35portal.png?1612930561",
+                            "path": "img/bnr_p35portal.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://persona5.jp/resources/img/top/sp/bnr_about_p5.png?1612930561",
+                            "path": "img/bnr_about_p5.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://persona5.jp/resources/img/top/sp/about_p5_movie.png?1612930561",
+                            "path": "img/about_p5_movie.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://persona5.jp/resources/img/top/sp/to_character_btn.png?1612930562",
+                            "path": "img/to_character_btn.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://persona5.jp/resources/img/top/sp/to_s_life_btn.png?1612930562",
+                            "path": "img/to_s_life_btn.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://persona5.jp/resources/img/top/sp/to_p_life_btn.png?1612930562",
+                            "path": "img/to_p_life_btn.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://persona5.jp/resources/img/top/sp/anniversary_btn.png?1612930561",
+                            "path": "img/anniversary_btn.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://persona5.jp/resources/img/top/sp/about_persona_bg.png?1612930561",
+                            "path": "img/about_persona_bg.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://persona5.jp/resources/img/top/sp/p5r_modal/close_btn.png?1612930562",
+                            "path": "img/close_btn.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://persona5.jp/resources/img/top/sp/p5r_modal/catchcopy.png?1612930562",
+                            "path": "img/catchcopy_1.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://persona5.jp/resources/img/top/sp/p5r_modal/date.png?1612930562",
+                            "path": "img/date.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://persona5.jp/resources/img/top/sp/p5r_modal/p5r_btn.png?1612930562",
+                            "path": "img/p5r_btn.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "http://persona5.jp/sp/resources/img/favicon-16x16.png",
+                    "saved": false
+                },
+                {
+                    "url": "http://persona5.jp/sp/resources/img/favicon-32x32.png",
+                    "saved": false
+                },
+                {
+                    "url": "http://persona5.jp/sp/resources/img/favicon-96x96.png",
+                    "saved": false
+                },
+                {
+                    "url": "http://persona5.jp/resources/img/modal/modal_close_btn_sp.png",
+                    "path": "img/modal_close_btn_sp.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://persona5.jp/resources/img/modal/modal_remaster_sp.png",
+                    "path": "img/modal_remaster_sp.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://persona5.jp/resources/img/modal/modal_btn_remaster_sp.png",
+                    "path": "img/modal_btn_remaster_sp.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://persona5.jp/resources/img/ogp.jpg",
+                    "path": "img/ogp.jpg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "persona5-jp-udatwd9l",
+    "info": {
+        "remark": [],
+        "title": "P５ - ペルソナ５ - 公式サイト",
+        "domain": "persona5.jp",
+        "origin": "http://persona5.jp",
+        "ip": "18.65.216.69",
+        "main": "index.html",
+        "url": "http://persona5.jp/sp/",
+        "totalSize": "140 kB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "http://persona5.jp/sp/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "http://persona5.jp/sp/",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "content-type": "text/html",
+                "content-length": "18582",
+                "connection": "close",
+                "date": "Mon, 08 Aug 2022 05:44:48 GMT",
+                "last-modified": "Thu, 28 Jul 2022 05:08:27 GMT",
+                "etag": "\"362c15dd8ca904d10ba374fd2234c809\"",
+                "server": "AmazonS3",
+                "x-cache": "Miss from cloudfront",
+                "via": "1.1 a51b178f0f09367e8f5a5a76d22d01b2.cloudfront.net (CloudFront)",
+                "x-amz-cf-pop": "NRT57-P4",
+                "x-amz-cf-id": "LpjPoLkr00OOse58g9b9c8ujiHyFqisi0I22mWi7DSRO6l6ep6cAzg=="
+            }
+        },
+        "time": {
+            "start": "2022-08-08T05:44:47.713Z",
+            "end": "2022-08-08T05:44:56.743Z"
+        }
+    },
+    "options": {
+        "url": "http://persona5.jp/sp/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}
